@@ -1,3 +1,22 @@
-# first-javascript-project
-Projeto desenvolvido durante meus estudos de lógica de programação com JavaScript.
-O sistema lista alunos, suas médias e informa se foram aprovados ou reprovados.
+# First JavaScript Project
+
+Meu primeiro projeto utilizando JavaScript para praticar lógica de programação, 
+arrays, objetos, funções, operadores ternarios e manipulaçãp de dados.
+
+## Tecnologias utilizadas
+
+- JavaScript
+- CodeSandbox
+
+## Funcionalidades
+- Listagem de alunos
+- Verificação de média das notas
+- Aprovação e reprovação automatica
+
+## Objetivo
+
+Praticar conceitos fundamentais de JavaScript e lógica de programação.
+
+## Autor
+
+Mateus Rodrigo Schaffer
